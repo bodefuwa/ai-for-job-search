@@ -2,7 +2,7 @@
 
 **For new OpenClaw instances. Fill in the bracketed fields with your information.**
 ---
-## Installation & Configuration (About 45-90 minutes for non-technical professional)
+## Installation & Configuration (About 45-90 minutes for non-technical professionals)
 - Download: Go to the [Openclaw official site](https://openclaw.ai)
 - Configure: Use this [tutorial](https://github.com/Next-Kick/openclaw-hardened-ansible/blob/main/README.md)
 - Secure: Use this [tutorial](https://aimaker.substack.com/p/openclaw-security-hardening-guide)  
